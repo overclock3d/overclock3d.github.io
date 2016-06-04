@@ -1,6 +1,6 @@
 html {
  	//background-color: #08ddf1;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e7/Sydney's_North-west_Skyline_from_Bradley's_Head_at_sunset.jpg")
+  background-image: url("bgimage.jpg")
  } 
 
 h1 { 
@@ -31,7 +31,7 @@ text-align: center;
 div.text { 
 background-color: #FFFFFF;
 width: 25%;
-height: 50%;
+height: auto;
 margin-left: auto;
 margin-right: auto;
 border-style: solid;
