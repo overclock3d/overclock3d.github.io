@@ -1,10 +1,11 @@
 html {
  	//background-color: #08ddf1;
   background-image: url("bgimage.jpg")
+  position: absolute;
  } 
 
 h1 { 
- font-family: 'Roboto', sans-serif;
+ font-family: 'Pacifico', sans-serif;
  font-size: 36px;
  color: #000000;
  }
